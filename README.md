@@ -80,3 +80,17 @@ pip install -r Difix3D_2/requirements.txt
 ### 3. Run the streamlit file
 ``` bash
 streamlit run Difix3D_2/src/demo_stream.py
+```
+
+## Authors
+- Sirin Changulani
+- Sonam Sikarwar
+- Harshita Vachhani
+
+### Pretrained Models & Resources
+
+- Difix (NVIDIA): https://huggingface.co/nvidia/difix
+- gsplat (CUDA library): https://github.com/nerfstudio-project/gsplat
+- gsplat viewer (HF): https://github.com/huggingface/gsplat.js
+
+### YouTube video link 
