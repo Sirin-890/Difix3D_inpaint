@@ -34,6 +34,12 @@ The goal is to improve **visual quality, structural consistency, and controllabi
 - **FastAvatar**
 
 ---
+### YouTube video link 
+[YouTube](https://www.youtube.com/watch?v=CqEvETOnCuo)
+
+### Hugging Face model Link
+[Model Link](https://huggingface.co/bappaiitj/DL_project_difix_tuned)
+---
 
 ### Setup
 - GPU: NVIDIA A100  
@@ -66,7 +72,7 @@ The goal is to improve **visual quality, structural consistency, and controllabi
 
 ---
 
-## How to Run
+## How to Run Difix3D+ Inpainting model
 
 ### 1. Clone the Repository
 ```bash
@@ -82,10 +88,23 @@ pip install -r Difix3D_2/requirements.txt
 streamlit run Difix3D_2/src/demo_stream.py
 ```
 
+## How to Run g3splat model
+```bash
+cd g3splat
+```
+### 2. Create environment and install the dependencies
+``` bash
+pip install -r Difix3D_2/requirements.txt
+```
+### 3. Run the gradio file
+``` bash
+python demo.py
+```
+
 ## Authors
-- Sirin Changulani
-- Sonam Sikarwar
-- Harshita Vachhani
+- Sirin Changulani (B23CM1038)
+- Sonam Sikarwar (B23CM1060)
+- Harshita Vachhani (B23EE1026)
 
 ### Pretrained Models & Resources
 
@@ -93,8 +112,4 @@ streamlit run Difix3D_2/src/demo_stream.py
 - gsplat (CUDA library): https://github.com/nerfstudio-project/gsplat
 - gsplat viewer (HF): https://github.com/huggingface/gsplat.js
 
-### YouTube video link 
-[YouTube](https://www.youtube.com/watch?v=CqEvETOnCuo)
 
-### Hugging Face model Link
-[Model Link](https://huggingface.co/bappaiitj/DL_project_difix_tuned)
