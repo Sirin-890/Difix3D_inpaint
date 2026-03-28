@@ -64,7 +64,7 @@ def difix_input(image_pil, mask_pil):
 def load_difix():
     from pipeline_difix import DifixPipeline
     pipe = DifixPipeline.from_pretrained(
-        "nvidia/difix_ref", trust_remote_code=True
+        "bappaiitj/DL_project_difix_tuned", trust_remote_code=True
     ).to("cuda")
     return pipe
 
