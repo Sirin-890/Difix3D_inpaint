@@ -94,13 +94,14 @@ cd g3splat
 ```
 ### 2. Create environment and install the dependencies
 ``` bash
-pip install -r Difix3D_2/requirements.txt
+pip install -r g3splat/requirements.txt
 ```
 ### 3. Run the gradio file
 ``` bash
 python demo.py
 ```
-
+Please Note - The environment dependencied of all 3 models are different
+---
 ## Authors
 - Sirin Changulani (B23CM1038)
 - Sonam Sikarwar (B23CM1060)
