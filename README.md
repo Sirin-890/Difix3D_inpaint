@@ -100,7 +100,7 @@ pip install -r g3splat/requirements.txt
 ``` bash
 python demo.py
 ```
-Please Note - The environment dependencied of all 3 models are different
+Please Note - The environment dependencies of all the 3 models are different
 ---
 ## Authors
 - Sirin Changulani (B23CM1038)
