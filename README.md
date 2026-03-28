@@ -94,3 +94,7 @@ streamlit run Difix3D_2/src/demo_stream.py
 - gsplat viewer (HF): https://github.com/huggingface/gsplat.js
 
 ### YouTube video link 
+[YouTube](https://www.youtube.com/watch?v=CqEvETOnCuo)
+
+### Hugging Face model Link
+[Model Link](https://huggingface.co/bappaiitj/DL_project_difix_tuned)
