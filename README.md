@@ -64,9 +64,17 @@ The goal is to improve **visual quality, structural consistency, and controllabi
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Sirin-890/Difix3D_inpaint.git
 cd Difix3D_inpaint
+
+### 2. Create environment and install the dependencies
+``` bash
+pip install -r Difix3D_2/requirements.txt
+
+### 3. Run the streamlit file
+``` bash
+streamlit run Difix3D_2/src/demo_stream.py
