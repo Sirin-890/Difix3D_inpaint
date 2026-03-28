@@ -4,3 +4,6 @@
 [submodule "gaussian-splatting"]
 	path = gaussian-splatting
 	url = https://github.com/graphdeco-inria/gaussian-splatting.git
+[submodule "FastAvatar"]
+	path = FastAvatar
+	url = https://github.com/hliang2/FastAvatar.git
