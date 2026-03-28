@@ -31,7 +31,7 @@ The goal is to improve **visual quality, structural consistency, and controllabi
 - **Nersemble Dataset (G3Splat)**
   - Human-centric dataset (subset used due to compute limits)
 
-- **FastAvatar**
+- **Synthetic 3D Face Dataset by Microsoft Research**
 
 ---
 ### YouTube video link 
