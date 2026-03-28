@@ -34,11 +34,9 @@ The goal is to improve **visual quality, structural consistency, and controllabi
 - **Synthetic 3D Face Dataset by Microsoft Research**
 
 ---
-### YouTube video link 
-[YouTube](https://www.youtube.com/watch?v=CqEvETOnCuo)
+### YouTube video link : [YouTube](https://www.youtube.com/watch?v=CqEvETOnCuo)
 
-### Hugging Face model Link
-[Model Link](https://huggingface.co/bappaiitj/DL_project_difix_tuned)
+### Hugging Face model Link : [Model Link](https://huggingface.co/bappaiitj/DL_project_difix_tuned)
 ---
 
 ### Setup
